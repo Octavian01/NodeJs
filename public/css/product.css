@@ -1,0 +1,40 @@
+.product-form input,
+.product-form label,
+.product-form textarea {
+    width: 20rem;
+    max-width: 90rem;
+    margin: auto;
+}
+
+.product-form button {
+    display: block;
+    margin: 0 auto;
+}
+
+.product-item {
+    width: 20rem;
+    max-width: 95%;
+}
+
+.product__title {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.product__price {
+    text-align: center;
+    color: #4d4d4d;
+    margin-bottom: 0.5rem;
+}
+
+.product__description {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.img__display {
+    width: 25rem;
+}
